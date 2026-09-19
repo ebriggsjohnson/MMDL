@@ -1,0 +1,6 @@
+{
+  "package": "mmdl",
+  "name": "MMDL — macOS Multilingual Dictionary Lookup",
+  "min_point_version": 50,
+  "conflicts": []
+}

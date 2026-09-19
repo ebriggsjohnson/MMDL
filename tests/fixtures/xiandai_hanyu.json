@@ -1,0 +1,8 @@
+{
+  "provenance": "Transcribed examples retained from the existing parser regression suite; dictionary version and capture date unknown.",
+  "entries": [
+    {"word": "光彩夺目", "raw": "光彩夺目 guāngcǎi-duómù 形容光泽色彩鲜明耀眼。", "pronunciation": "guāngcǎi-duómù", "definition_contains": "光泽色彩鲜明耀眼"},
+    {"word": "女儿", "raw": "女儿 nǚ'ér 名 自己生养或领养的女孩子。", "pronunciation": "nǚ'ér", "definition_contains": "自己生养或领养"},
+    {"word": "挨挤", "raw": "挨挤 āijǐ 动 拥挤①。天挺挺热，别挨挤在一块儿。", "pronunciation": "āijǐ", "definition_contains": "拥挤①"}
+  ]
+}
