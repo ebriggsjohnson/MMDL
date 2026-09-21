@@ -23,8 +23,7 @@ then restart Anki. The build needs no downloads or third-party Python packages.
 Existing text is kept unless you enable overwriting. **Fill Deck…** applies
 your saved connections to existing notes in one undoable background operation.
 
-**Curated** means a dictionary has a developer-maintained preset with optional
-parts. Currently this is 现代汉语规范词典, with pinyin, parts of speech,
+**Curated** means a dictionary has a developer-maintained preset with nice formatting for parts of speech, example sentences, definitions, etc.. Currently this is just 现代汉语规范词典, with pinyin, parts of speech,
 definitions, examples, and usage notes. Other dictionaries use **Whole entry**.
 Language labels come from dictionary metadata and do not imply preset support.
 
